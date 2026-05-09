@@ -406,7 +406,7 @@ Se implementaron logs personalizados usando `Illuminate\Support\Facades\Log` en 
 
 Los logs se guardan en `storage/logs/laravel.log`.
 
-## 📊 Dashboard de Métricas (Bonus 2)
+## Dashboard de Métricas (Bonus 2)
 
 El proyecto incluye un dashboard visual accesible desde el navegador que muestra:
 
